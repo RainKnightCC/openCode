@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>res/click.png</file>
+        <file>res/init.png</file>
+        <file>res/wadechen_voice.wav</file>
+        <file>res/wadechen_voice1.wav</file>
+        <file>res/wadechen_voice2.wav</file>
+        <file>res/welcome_semi.mp3</file>
+        <file>res/welcome_semi_help.mp3</file>
+        <file>res/ok_please_wait_search.mp3</file>
+        <file>res/girl_output.wav</file>
+        <file>res/alert.wav</file>
+        <file>res/girl_sleep.wav</file>
+    </qresource>
+</RCC>
